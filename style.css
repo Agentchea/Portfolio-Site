@@ -111,15 +111,15 @@ nav {
     
 }
 .ping2 {
-    background-image: url(black.jpg);
+    background-image: url(facebook.jpg);
     min-height: 400px;
 }
 .ping3 {
-    background-image: url(build.jpg);
+    background-image: url(desk.jpg);
     min-height: 400px;
 }
 .ping4 {
-    background-image: url(coffee.jpg);
+    background-image: url(guy.gif);
     min-height: 100%;
     background-size: cover;
 }
@@ -157,6 +157,11 @@ nav {
 }
 
 .contact .email {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+}
+.extension .develop {
     background-color: #111;
     color: #fff;
     padding: 20px;
