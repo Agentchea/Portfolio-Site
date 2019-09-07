@@ -111,7 +111,7 @@ nav {
     
 }
 .ping2 {
-    background-image: url(cloud.jpg);
+    background-image: url(sky.jpg);
     min-height: 400px;
 }
 .ping3 {
@@ -227,7 +227,7 @@ a:hover {
     border-radius: 50%;
 }
 #pp2 {
-    width: 300px;
+    width: 180px;
     height: auto;
     border-radius: 50%;
 }
