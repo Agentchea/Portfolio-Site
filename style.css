@@ -111,15 +111,15 @@ nav {
     
 }
 .ping2 {
-    background-image: url(facebook.jpg);
+    background-image: url(cloud.jpg);
     min-height: 400px;
 }
 .ping3 {
-    background-image: url(desk.jpg);
+    background-image: url(walk.jpg);
     min-height: 400px;
 }
 .ping4 {
-    background-image: url(guy.gif);
+    background-image: url(Mac.jpg);
     min-height: 100%;
     background-size: cover;
 }
@@ -220,4 +220,19 @@ a:hover {
     color: #fff;
     
     cursor: pointer;
+}
+#pp {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+#pp2 {
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+}
+#pp3 {
+    width: 180px;
+    height: auto;
+    border-radius: 50%;
 }
